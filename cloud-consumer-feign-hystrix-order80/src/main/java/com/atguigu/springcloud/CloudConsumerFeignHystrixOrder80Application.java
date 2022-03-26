@@ -16,7 +16,8 @@ public class CloudConsumerFeignHystrixOrder80Application {
     public static void main(String[] args) {
         SpringApplication.run(CloudConsumerFeignHystrixOrder80Application.class, args);
         System.out.println("启动成功");
-
+        System.out.println("git");
+        System.out.println("master commit");
     }
 
 }
