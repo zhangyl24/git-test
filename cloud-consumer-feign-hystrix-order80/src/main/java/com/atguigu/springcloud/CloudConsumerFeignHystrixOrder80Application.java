@@ -18,6 +18,7 @@ public class CloudConsumerFeignHystrixOrder80Application {
         System.out.println("启动成功");
         System.out.println("git");
         System.out.println("master commit");
+        System.out.println("haha");
     }
 
 }
